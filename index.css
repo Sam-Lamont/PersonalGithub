@@ -39,3 +39,28 @@ footer {
   font-size: 0.9rem;
   color: #888;
 }
+
+.about-text {
+  color: white;
+  font-size: 3rem;
+  display: flex;
+  margin-top: 4.5em;
+  margin-left: 6em;
+  margin-right: 6em;
+}
+
+.container {
+  display: flex;
+  max-width: 1000px;
+  height: 231.8px;
+  margin: 0 auto;
+}
+
+.container span {
+  margin: auto;
+  line-height: 1.5em;
+  font-size: 1.36em;
+  margin-top: 11em;
+  margin-left: 4.5em;
+  margin-right: 4.5em;
+}
