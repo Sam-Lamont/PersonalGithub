@@ -43,6 +43,7 @@ footer {
   padding: 2rem;
   font-size: 0.9rem;
   color: #888;
+  align-self: flex-end;
 }
 
 .about-text {
