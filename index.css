@@ -8,18 +8,18 @@ body {
 }
 
 header {
-  height: 85vh;
+  /* height: 85vh; */
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
 }
 
-/* header h1 {
+header h1 {
   font-size: 3.5rem;
   letter-spacing: 0.1em;
   margin-bottom: 1rem;
-} */
+} 
 
 .inline-links a {
   color: white;
