@@ -55,10 +55,11 @@ footer {
 margin: auto; 
 }
 
-/* for troubleshooting layout issues */
+/* for troubleshooting layout issues :D
 * {
 outline: 1px solid #f00;
   &:hover {
     outline: 2px solid #f00;
   }
 }
+*/
