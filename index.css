@@ -55,6 +55,7 @@ footer {
 margin: auto; 
 }
 
+/* for troubleshooting layout issues */
 * {
 outline: 1px solid #f00;
   &:hover {
