@@ -51,22 +51,6 @@ footer {
   align-content: flex-end;
 }
 
-.about-text {
-  color: white;
-  font-size: 2.5rem;
-  display: flex;
-  margin-top: 4.5em;
-  margin-left: 6em;
-  margin-right: 6em;
-}
-
-.container {
-  display: flex;
-  max-width: 1000px;
-  height: 650px;
-  margin: 0 auto;
-}
-
 .center-text {
 margin: auto; 
 }
