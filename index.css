@@ -20,7 +20,7 @@ header h1 {
   letter-spacing: 0.1em;
   margin-bottom: 1rem;
 } 
-/* 
+
 .inline-links a {
   color: white;
   text-decoration: none;
@@ -28,7 +28,7 @@ header h1 {
   margin: 0 0.6rem;
   transition: color 0.3s;
 }
-*/
+
 .inline-links a:hover {
   color: #aaa;
 }
