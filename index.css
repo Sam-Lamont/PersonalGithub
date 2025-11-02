@@ -45,8 +45,8 @@ header h1 {
   
 footer {
   
-  padding: 2rem;
-  font-size: 0.9rem;
+  padding: 2em;
+  font-size: 0.9em;
   color: #888;
   align-content: flex-end;
 }
